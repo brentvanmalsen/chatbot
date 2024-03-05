@@ -1,1 +1,1 @@
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "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";
