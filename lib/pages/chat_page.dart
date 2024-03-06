@@ -35,9 +35,9 @@ class _ChatPageState extends State<ChatPage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: const Color.fromRGBO(
-          0,
-          166,
-          126,
+          230,
+          152,
+          27,
           1,
         ),
         title: const Text(
@@ -53,9 +53,9 @@ class _ChatPageState extends State<ChatPage> {
           messageOptions: const MessageOptions(
             currentUserContainerColor: Colors.black,
             containerColor: Color.fromRGBO(
-              0,
-              166,
-              126,
+              230,
+              152,
+              27,
               1,
             ),
             textColor: Colors.white,
