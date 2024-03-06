@@ -202,7 +202,7 @@
 		</data>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation</key>
 		<data>
-		u3rQhoQOZ9gYiDqcWtkdiewojSY=
+		q+/HppurVh/elZspzU6/ND6QOAI=
 		</data>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>Frameworks/sqflite.framework/sqflite</key>
 		<data>
-		W4Yb+ymYNOB7H9+Oql9UFJU2uoY=
+		O571SO3bjx77NqbOkOgPOU5+5sg=
 		</data>
 		<key>Frameworks/sqflite.framework/sqflite_darwin_privacy.bundle/Info.plist</key>
 		<data>
@@ -242,7 +242,7 @@
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios</key>
 		<data>
-		Q/eYoanQr9CtZOVgC0KdLoJVpsI=
+		yNsJQZfYEdUApBm5OlBTM4QFsuA=
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
 		<data>
@@ -262,7 +262,7 @@
 		</data>
 		<key>Frameworks/video_player_avfoundation.framework/video_player_avfoundation</key>
 		<data>
-		8hfIecvAPqOL9JpvbudxSnRgRMA=
+		IBvVyFpsD/fo4pzoswTuNK39vAA=
 		</data>
 		<key>Frameworks/video_player_avfoundation.framework/video_player_avfoundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -634,7 +634,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1DrRCb6sMYzcSr9yuovk/qDFPbIZUKFroONW/IShzto=
+			/d+1KRyy0/HwNuIZpUQOubsWNm8HlcoW41dohAW1AkA=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist</key>
@@ -669,7 +669,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N+H+R5LG6kF01om5vxGKi6Fb57xvgIs0+3F43nwFug0=
+			CFa+6zO2MEb+92n43/aTHCDdSPy7CHJDJPhI4uP9AdQ=
 			</data>
 		</dict>
 		<key>Frameworks/sqflite.framework/sqflite_darwin_privacy.bundle/Info.plist</key>
@@ -704,7 +704,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ed1j0sYNn74D8OO7SxK4EpZr5mq/WFuFmrzBM03g+UY=
+			PQq7Y8HIH+2AQ7oLx/9+WL++/4tIEkZ4Ttit3+gx7Bk=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
@@ -739,7 +739,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Zv3cQM6KaYadTVfcW1AkkCXxjXQydFoN1lfULB2Cjs=
+			kP7YmSXM/gDK1BNh62zlHA/+wdYD2Sq0LDjhdi8gsPc=
 			</data>
 		</dict>
 		<key>Frameworks/video_player_avfoundation.framework/video_player_avfoundation_privacy.bundle/Info.plist</key>
