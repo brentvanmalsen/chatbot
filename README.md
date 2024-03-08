@@ -1,16 +1,56 @@
-# flutter_application_chatbot
+# Brentos GPT Chatbot
 
-A new Flutter project.
+Een Flutter-applicatie die gebruik maakt van een GPT model van OpenAI.
 
-## Getting Started
+## Beschrijving
 
-This project is a starting point for a Flutter application.
+De chatbot is een chatapplicatie die gebruikmaakt van het GPT model van OpenAI om natuurlijke conversaties te genereren. Gebruikers kunnen chatten met de chatbot, omdat het gebruiken van de API-key geld kost worden er op dit moment geen antwoordne gegenereerd.
 
-A few resources to get you started if this is your first Flutter project:
+De app is gemaakt om Flutter en de integratie met externe AI-modellen te verkennen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Functies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Chatten met een AI-chatbot
+- Verzenden en ontvangen van berichten in real-time
+- Integratie met OpenAI's GPT-model voor het genereren van antwoorden
+
+## Installatie
+
+Om de app lokaal te draaien, volg dan de volgende stappen:
+
+1. Zorg ervoor dat Flutter is geïnstalleerd op je systeem.m(https://flutter.dev/docs/get-started/install).
+
+2. Clone de repository naar je lokale machine:
+
+git clone https://git.fhict.nl/I507960/tech-case-2-chatbot.git
+
+3. Navigeer naar de gekloonde map:
+cd tech-case-2-chatbot
+
+4. Voer de app uit in de terminal:
+flutter run
+
+## Gebruik
+
+1. Open de app op je mobiele apparaat of simulator.
+
+2. Koppel een eigen API key om gebruik te kunnen maken van de chat functionaliteit.
+
+3. Voer een bericht in en druk op 'Verzenden'.
+
+4. Wacht op een antwoord van de chatbot.
+
+## Technologieën
+
+* Flutter: Framework voor het ontwikkelen van apps.
+
+* Dart: Programmeertaal voor het bouwen van de apps.
+
+* OpenAI GPT model: AI model voor het genereren van antwoorden
+
+## Gemaakt door
+
+Brent van Malsen
+Git: https://git.fhict.nl/I507960
+
+
