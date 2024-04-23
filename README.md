@@ -44,7 +44,6 @@ flutter run
 
 ## Gemaakt door
 
-Brent van Malsen  
-Git: https://git.fhict.nl/I507960
+Brent van Malsen
 
 
