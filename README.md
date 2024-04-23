@@ -24,7 +24,7 @@ Om de app lokaal te draaien, volg dan de volgende stappen:
    git clone https://github.com/brentvanmalsen/chatbot.git
 
 3. Navigeer naar de gekloonde map:
-cd tech-case-2-chatbot
+cd chatbot
 
 4. Voer de app uit in de terminal:
 flutter run
