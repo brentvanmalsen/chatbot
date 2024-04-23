@@ -21,7 +21,7 @@ Om de app lokaal te draaien, volg dan de volgende stappen:
 1. Zorg ervoor dat Flutter is geïnstalleerd op je systeem.m(https://flutter.dev/docs/get-started/install).
 
 2. Clone de repository naar je lokale machine:
-   git clone https://git.fhict.nl/I507960/tech-case-2-chatbot.git
+   git clone https://github.com/brentvanmalsen/chatbot.git
 
 3. Navigeer naar de gekloonde map:
 cd tech-case-2-chatbot
