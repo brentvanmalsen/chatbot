@@ -1,0 +1,1 @@
+ /Users/brentvanmalsen/Desktop/tech-case-2-chatbot/.dart_tool/flutter_build/8337f27747740bfd104d93d959815e83/native_assets.yaml: 

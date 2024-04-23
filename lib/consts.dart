@@ -1,1 +1,1 @@
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "API key revoked";
